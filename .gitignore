@@ -1,2 +1,8 @@
 key.py
 *.pyc
+*.dll
+*.exe
+*.html
+*.jar
+/tessdata/
+/images/
